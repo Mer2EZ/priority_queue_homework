@@ -1,5 +1,4 @@
-// Created by Mehmet Mert Kurt 439241 on 15.10.2024
-// Edited by Mehmet Mert Kurt 439241 on 16.10.2024
+// Created by Mehmet Mert Kurt on 15.10.2024
 
 #include <iostream>
 
